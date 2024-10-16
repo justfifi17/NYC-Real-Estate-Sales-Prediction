@@ -2,6 +2,13 @@
 
 This project uses **machine learning models** to predict real estate sales prices in New York City from 2016-2017. The dataset includes property details like borough, neighborhood, building class, and sales prices.
 
+## Models used 
+
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- XGBoost Regressor
+ 
 ## 📊 Features
 
 - **Data Preprocessing**: Handled missing values, removed unnecessary columns, and transformed skewed data using log transformation.
